@@ -24,9 +24,9 @@ Untuk menjalankan program ini, Anda perlu menginstal Node.js versi 22 di kompute
 2. Di terminal, navigasikan ke direktori yang berisi file program.
 3. Jalankan program dengan perintah:
    ```bash
-   node namafile.js
+   node index.js
    ```
-   Ganti `namafile.js` dengan nama file yang berisi program.
+   Ganti `index.js` dengan nama file yang berisi program.
 
 4. Ikuti instruksi di layar untuk:
    - Memilih operasi: enkripsi (1), dekripsi (2), atau keluar (3).
